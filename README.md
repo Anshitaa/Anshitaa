@@ -2,15 +2,13 @@
 *M.S. in Data Science, Analytics and Engineering at Arizona State University*
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anshita--bhardwaj/)
-[<img src="https://img.shields.io/badge/Portfolio-D43622?style=for-the-badge&logo=CutyCapt&logoColor=white" />](your-portfolio-url.com)
+[<img src="https://img.shields.io/badge/Portfolio-D43622?style=for-the-badge&logo=CutyCapt&logoColor=white" />]([your-portfolio-url.com](https://portfolio-website-4ho5jygd3-anshitaas-projects.vercel.app/))
 
 ---
 
 ### About Me
 
-I am a Data Science graduate student at ASU with research experience in deep learning, NLP, and explainable AI. My work focuses on building transparent and high-impact AI models for time-series and natural language domains using tools like PyTorch, TensorFlow, and SHAP. I am passionate about the entire MLOps lifecycle, from developing scalable data pipelines with Spark and Kafka to deploying containerized applications with Docker and Kubernetes.
-
----
+Data Science graduate student specializing in the design and deployment of end-to-end AI systems. My experience includes building agentic AI solutions, such as developing Retrieval-Augmented Generation (RAG) pipelines with LangChain and vector databases that achieved 95% retrieval accuracy on large knowledge bases. I am proficient in architecting the full MLOps lifecycle, from creating real-time data pipelines with Apache Spark and Kafka to deploying containerized applications with Docker and Kubernetes.
 
 ### 🛠️ My Tech Stack
 
