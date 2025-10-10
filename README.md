@@ -8,7 +8,7 @@
 
 ### About Me
 
-Data Science graduate student specializing in the design and deployment of end-to-end AI systems. [cite_start]My experience includes building agentic AI solutions, such as developing Retrieval-Augmented Generation (RAG) pipelines with LangChain and vector databases that achieved 95% retrieval accuracy on large knowledge bases[cite: 35]. [cite_start]I am proficient in architecting the full MLOps lifecycle, from creating real-time data pipelines with Apache Spark and Kafka to deploying containerized applications with Docker and Kubernetes[cite: 40, 41].
+Data Science graduate student specializing in the design and deployment of end-to-end AI systems. [cite_start]My experience includes building agentic AI solutions, such as developing Retrieval-Augmented Generation (RAG) pipelines with LangChain and vector databases that achieved 95% retrieval accuracy on large knowledge bases[cite: 35]. [cite_start]I am proficient in architecting the full MLOps lifecycle, from creating real-time data pipelines with Apache Spark and Kafka to deploying containerized applications with Docker and Kubernetes.
 
 ---
 
