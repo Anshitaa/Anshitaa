@@ -1,20 +1,22 @@
 # Anshita Bhardwaj
-*M.S. in Data Science, Analytics and Engineering at Arizona State University*
+**Data Scientist | Machine Learning Engineer**
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anshita--bhardwaj/)
-[<img src="https://img.shields.io/badge/Portfolio-D43622?style=for-the-badge&logo=CutyCapt&logoColor=white" />]([your-portfolio-url.com](https://portfolio-website-4ho5jygd3-anshitaas-projects.vercel.app/))
+[<img src="https://img.shields.io/badge/Portfolio-D43622?style=for-the-badge&logo=CutyCapt&logoColor=white" />](https://portfolio-website-4ho5jygd3-anshitaas-projects.vercel.app/)
 
 ---
 
 ### About Me
 
-Data Science graduate student specializing in the design and deployment of end-to-end AI systems. My experience includes building agentic AI solutions, such as developing Retrieval-Augmented Generation (RAG) pipelines with LangChain and vector databases that achieved 95% retrieval accuracy on large knowledge bases. I am proficient in architecting the full MLOps lifecycle, from creating real-time data pipelines with Apache Spark and Kafka to deploying containerized applications with Docker and Kubernetes.
+Data Science graduate student specializing in the design and deployment of end-to-end AI systems. [cite_start]My experience includes building agentic AI solutions, such as developing Retrieval-Augmented Generation (RAG) pipelines with LangChain and vector databases that achieved 95% retrieval accuracy on large knowledge bases[cite: 35]. [cite_start]I am proficient in architecting the full MLOps lifecycle, from creating real-time data pipelines with Apache Spark and Kafka to deploying containerized applications with Docker and Kubernetes[cite: 40, 41].
+
+---
 
 ### 🛠️ My Tech Stack
 
 | Category | Skills |
 |---|---|
-| **AI & Machine Learning** | PyTorch, TensorFlow, Scikit-learn, Pandas, LangChain, Hugging Face Transformers, SHAP, Time-Series Forecasting (LSTM, GRU), Computer Vision (OpenCV) |
+| **AI & Machine Learning** | PyTorch, TensorFlow, Scikit-learn, Pandas, LangChain, Hugging Face Transformers, Time-Series Forecasting (LSTM, GRU), Computer Vision (OpenCV) |
 | **Backend & MLOps** | Python, Django, FastAPI, Docker, Kubernetes, Apache Spark, Kafka, Git |
 | **Frontend** | JavaScript, ReactJS, NextJS, HTML, CSS |
 | **Databases** | SQL (PostgreSQL, MySQL), NoSQL (MongoDB), ChromaDB, SQLite |
@@ -25,9 +27,9 @@ Data Science graduate student specializing in the design and deployment of end-t
 ### ✨ Featured Projects
 
 ### Responsible AI for Healthcare
-*An interactive dashboard to predict patient readmission risk, providing transparent model explanations with SHAP and actively mitigating demographic bias.*
+*An interactive dashboard to predict patient readmission risk, providing transparent model explanations and actively mitigating demographic bias.*
 <br>
-**Tech:** Scikit-learn, SHAP, Fairlearn, Streamlit
+**Tech:** Scikit-learn, Fairlearn, Streamlit, Python
 <br>
 [**Code**]([LINK-TO-REPO]) | [**Live Demo**]([LINK-TO-LIVE-DEMO])
 
