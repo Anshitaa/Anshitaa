@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anshita+Bhardwaj+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+Data+Engineer;Building+Agentic+AI+%26+Data+Systems;MS+Data+Science+%40+Arizona+State+University" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshita-bhardwaj/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D43622?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-4ho5jygd3-anshitaas-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D43622?style=for-the-badge&logo=vercel&logoColor=white)](https://anshitabhardwaj.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshita.inbox@gmail.com)
 
 </div>
